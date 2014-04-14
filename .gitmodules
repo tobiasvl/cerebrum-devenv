@@ -1,0 +1,3 @@
+[submodule "devutils"]
+	path = devutils
+	url = ssh://git@utv.uio.no:7999/crb/devutils.git
